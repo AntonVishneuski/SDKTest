@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "14.0"
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '14.0'
-  spec.source       = { :http => "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1-MWzfs8khuOCEqTDqs9S9Su3OmKERvrC" }
+  spec.source       = { :http => "https://drive.google.com/uc?export=download&id=1-MWzfs8khuOCEqTDqs9S9Su3OmKERvrC" }
   spec.vendored_frameworks = 'scmSdk.xcframework'
 
 end
