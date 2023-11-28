@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.version      = "6.6.6"
   spec.summary      = "A short description of scmSdk."
   spec.description  = "Full desription"
-    s.homepage      = 'http://some.com'
+  spec.homepage      = 'http://some.com'
   spec.license      = { :type => 'MIT' }
   spec.author             = { "Anton Vishneuski" => "avishneuski@servicechannel.com" }
   spec.platform     = :ios
