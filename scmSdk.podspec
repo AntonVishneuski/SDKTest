@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "scmSdk"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.1"
   spec.summary      = "A short description of scmSdk."
   spec.description  = "Full desription"
   spec.homepage      = 'http://some.com'
@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "14.0"
   spec.swift_version = '5.0'
   spec.ios.deployment_target = '14.0'
-  spec.source       = { :http => "https://github.com/AntonVishneuski/SDKTest/releases/download/0.0.1/scmSdk.xcframework.zip" }
+  spec.source       = { :http => 'https://github.com/AntonVishneuski/SDKTest/releases/download/0.0.1/scmSdk.xcframework.zip' }
   spec.vendored_frameworks = 'scmSdk.xcframework'
 
 end
