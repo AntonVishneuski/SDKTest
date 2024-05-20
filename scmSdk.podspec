@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "scmSdk"
-  spec.version      = "6.6.6"
+  spec.version      = "0.0.1"
   spec.summary      = "A short description of scmSdk."
   spec.description  = "Full desription"
   spec.homepage      = 'http://some.com'
